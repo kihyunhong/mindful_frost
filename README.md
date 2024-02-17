@@ -1,6 +1,7 @@
 # mindful_frost_team_cherry_orchard
 
-A new Flutter project.
+Mindful Frost is an application made by Flutter in which the user can view and read six representative winter diseases and answer set of questions to see if he/she got the disease.
+Submission to Steel City Hacks 2024: Winter Hackathon 
 
 ## Getting Started
 
